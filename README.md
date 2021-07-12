@@ -6,11 +6,11 @@ Firstfull,
 
 i trining the robot and test it only in arabic.
 
-![Screen Shot 2021-07-12 at 6 27 55 PM](https://user-images.githubusercontent.com/46851354/125314803-31083b80-e33f-11eb-893b-c67fecf1e92c.png)
+![Screen Shot 2021-07-12 at 6 27 55 PM](https://user-images.githubusercontent.com/46851354/125315213-8f351e80-e33f-11eb-83b4-230616f27b45.png)
 
 here the last result.
 
-![Screen Shot 2021-07-12 at 5 55 40 PM](https://user-images.githubusercontent.com/46851354/125314918-5006cd80-e33f-11eb-9e84-13fdfcc13698.png)
+![Screen Shot 2021-07-12 at 5 55 40 PM](https://user-images.githubusercontent.com/46851354/125315234-95c39600-e33f-11eb-8d59-120faf587d63.png)
 
 
 
