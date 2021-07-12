@@ -1,3 +1,47 @@
+#summer training
+
+This is the third task, in this task i learned how to add a  Watson assistant .
+
+Firstfull,
+
+i trining the robot and test it only in arabic.
+
+![Screen Shot 2021-07-12 at 6 27 55 PM](https://user-images.githubusercontent.com/46851354/125314803-31083b80-e33f-11eb-893b-c67fecf1e92c.png)
+
+here the last result.
+
+![Screen Shot 2021-07-12 at 5 55 40 PM](https://user-images.githubusercontent.com/46851354/125314918-5006cd80-e33f-11eb-9e84-13fdfcc13698.png)
+
+
+
+This task was helpfully and simpl and excited to task4
+thanks Smart Methods،،،،،
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
